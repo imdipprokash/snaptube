@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "825689727452",
+    "project_id": "shnapshot-dev",
+    "storage_bucket": "shnapshot-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825689727452:android:5cb569048cb701b57f2f19",
+        "android_client_info": {
+          "package_name": "com.snapshot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825689727452-e6ont3s9jlgmjfr94ltubs2177886g9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlk4QyRsW0zxtpdA6UGGGMRHWSkMgp1LQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825689727452-e6ont3s9jlgmjfr94ltubs2177886g9m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
